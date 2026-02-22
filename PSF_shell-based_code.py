@@ -34,8 +34,8 @@ class TIPP:
                 "Z": 52,
                 "A": 130,
                 "parities": {
-                    "+": ("te130pos_specj.txt", "te130pos_m1.txt", self.C_M, "M1"),
-                    "-": ("te130neg_specj.txt", "te130neg_m1.txt", self.C_M, "M1"),
+                    "+": ("te130pos_specj", "te130pos_m1", self.C_M, "M1"),
+                    "-": ("te130neg_specj", "te130neg_m1", self.C_M, "M1"),
                 }
             },
             "2": {
@@ -43,8 +43,8 @@ class TIPP:
                 "Z": 54,
                 "A": 134,
                 "parities": {
-                    "+": ("xe134pos_specj.txt", "xe134pos_m1.txt", self.C_M, "M1"),
-                    "-": ("xe134neg_specj.txt", "xe134neg_m1.txt", self.C_M, "M1"),
+                    "+": ("xe134pos_specj", "xe134pos_m1", self.C_M, "M1"),
+                    "-": ("xe134neg_specj", "xe134neg_m1", self.C_M, "M1"),
                 }
             },
             "3": {
@@ -52,7 +52,7 @@ class TIPP:
                 "Z": 21,
                 "A": 44,
                 "parities": {
-                    "all": ("sc44all_specj.txt", "sc44e1.txt", self.C_E, "E1"),
+                    "all": ("sc44all_specj", "sc44e1", self.C_E, "E1"),
                 }
             },
             "4": {
