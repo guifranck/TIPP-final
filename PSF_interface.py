@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 21 14:39:03 2026
+TIPP Project: Computation of level densities and photon strength functions in atomic nuclei
+Authors: Martí Serret and Guillaume Franck
+Date: February 2026
 
-@authors : guillaume franck & martí serret corbera
 """
 
 import numpy as np
